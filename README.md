@@ -21,10 +21,3 @@
 - Random replies for hi, bye, i love you.
 <br><br>
 
-## Connect with Me: 
-<br>
-[![N|Solid](images/instagram.svg)](https://instagram.com/raghul_prasanth_18
-
-<br>
-
-**Free Software, Hell Yeah!**
